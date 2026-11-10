@@ -1,0 +1,23 @@
+# Public releases repository — keep it clean.
+
+# OS noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / temp
+*.tmp
+*.bak
+*~
+
+# Secrets must never appear in a public repository
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.pfx
+*.p12
+*.keystore
+secrets.*
+credentials.*

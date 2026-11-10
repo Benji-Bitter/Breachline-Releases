@@ -1,0 +1,24 @@
+{
+  "game": "Breachline",
+  "version": "0.x.y",
+  "channel": "public-alpha",
+  "buildDate": "YYYY-MM-DD",
+  "engineVersion": "5.x",
+  "artifacts": [
+    {
+      "name": "Breachline-0.x.y-win64.zip",
+      "platform": "win64",
+      "type": "client",
+      "sizeBytes": 0,
+      "sha256": "<64-hex-digest>"
+    },
+    {
+      "name": "BreachlineServer-0.x.y-win64.zip",
+      "platform": "win64",
+      "type": "dedicated-server",
+      "sizeBytes": 0,
+      "sha256": "<64-hex-digest>"
+    }
+  ],
+  "notesUrl": "releases/v0.x.y/PATCH_NOTES.md"
+}
