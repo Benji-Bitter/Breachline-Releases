@@ -6,7 +6,8 @@
 
 <p align="center">
   A tactical multiplayer FPS built on Unreal Engine 5.<br>
-  This is the <b>public</b> repository: releases, patch notes, and the project website.
+  This is the <b>public</b> repository: downloadable builds, patch notes,
+  manifests and checksums.
 </p>
 
 ---
@@ -17,7 +18,6 @@
 |------|----------|
 | [`CHANGELOG.md`](CHANGELOG.md) | Versioned changelog for all public builds |
 | [`releases/`](releases/) | Per-version build manifests, checksums, and patch notes |
-| [`index.html`](index.html) | The project website, served via GitHub Pages |
 
 ## Getting the game
 
@@ -49,7 +49,6 @@ this repository intentionally contains only public-facing material.
 
 ## Community & support
 
-- **Website:** https://benji-bitter.github.io/Breachline-Releases/
 - **Issues for public releases:** use this repository's Issues tab
 - **Announcements:** watch this repository (Releases only) to get notified
 
