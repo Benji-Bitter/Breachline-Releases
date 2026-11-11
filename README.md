@@ -5,7 +5,7 @@
 <h1 align="center">Breachline — Official Releases</h1>
 
 <p align="center">
-  A tactical multiplayer FPS built on Unreal Engine 5.<br>
+  A tactical multiplayer FPS built on Godot.<br>
   This is the <b>public</b> repository: downloadable builds, patch notes,
   manifests and checksums.
 </p>
